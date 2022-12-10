@@ -3,9 +3,9 @@ layout: page
 permalink: /publications/
 title: Publications
 description: See updated list on <a href="https://scholar.google.com/citations?user=O8A5FNwAAAAJ&hl=en">Google Scholar</a>.
-years: [2020, 2021]
-categories: ['Conferences', 'Posters']
-catprint: ['','Conferences', 'Posters']
+years: [2020, 2021, 2022]
+categories: ['Conferences', 'Posters', 'Journals']
+catprint: ['','Conferences', 'Posters', 'Journals']
 nav: true
 ---
 
