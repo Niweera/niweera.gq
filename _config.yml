@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Nipuna
-last_name: Weerasekara
+last_name: WEERASEKARA
 email: w.nipuna@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am Nipuna Weerasekara, a web developer turned security researcher. I have published and presented on the research areas of software vulnerability remediation, web application security and vulnerability remediation in open-source. Currently, I am a full-time researcher at SCoRe Lab. Find me @Niweera on socials.
@@ -47,20 +47,20 @@ og_image: /assets/img/og_image.png # The site-wide (default for all links) Open 
 # -----------------------------------------------------------------------------
 
 github_username: Niweera
-gitlab_username: # your GitLab user name
+gitlab_username: niweera
 twitter_username: Niweera
 linkedin_username: niweera
 scholar_userid: O8A5FNwAAAAJ
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-6129-5071
 medium_username: niweera # your Medium username
 quora_username: Nipuna-Weerasekara # your Quora username
 publons_id: # your ID on Publons
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://networks.imdea.org/team/imdea-networks-team/people/nipuna-weerasekara/
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-yt_channel:
+yt_channel: https://www.youtube.com/@Niweera
 
 contact_note: >
   +9476619486
@@ -171,10 +171,10 @@ enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             false   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
+enable_tooltips:            true  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
